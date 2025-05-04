@@ -1,0 +1,38 @@
+{
+  "node": {
+    "0084381b4f205bac276ff4fee3bdbf6134a3ff2d": {
+      "workers": {
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDesktop%5C%5Cdev%5C%5Cuser-management-dashboard%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Cactions.ts%22%2C%5B%22getUsers%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22createUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "46513cb1927d0a94c58a474ba9970079c3c9659a": {
+      "workers": {
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDesktop%5C%5Cdev%5C%5Cuser-management-dashboard%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Cactions.ts%22%2C%5B%22getUsers%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22createUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "70e4539967a08eab4052399074ff730f71ed893f": {
+      "workers": {
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDesktop%5C%5Cdev%5C%5Cuser-management-dashboard%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Cactions.ts%22%2C%5B%22getUsers%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22createUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "d6347af6007dce615f4c48a7bd5f6d336b61fb04": {
+      "workers": {
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDesktop%5C%5Cdev%5C%5Cuser-management-dashboard%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Cactions.ts%22%2C%5B%22getUsers%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22createUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "WdotkZsVJyOKpKASEbNIr9sFeiUzXRLb9zasffJnjG8="
+}

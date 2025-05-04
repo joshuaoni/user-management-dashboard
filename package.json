@@ -8,7 +8,8 @@
     "dev": "nodemon",
     "build": "tsc",
     "watch": "tsc -w",
-    "clean": "rimraf dist"
+    "clean": "rm -rf dist",
+    "prebuild": "npm run clean"
   },
   "keywords": [
     "user-management",
